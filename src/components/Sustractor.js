@@ -18,7 +18,7 @@ export const Sustractor = () => {
       <div>
         <div className="mb-3 form-group">
           <label htmlFor="first-value" className="form-label">
-            Minuendo 
+            Minuendo
           </label>
           <input
             type="number"
