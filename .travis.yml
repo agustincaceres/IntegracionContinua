@@ -1,0 +1,14 @@
+languaje: node_js
+
+cache:
+  directories:
+    - node_modules
+    - ~/.npm
+
+node_js:
+  - "12"
+
+script:
+  - npm install
+  #- npm run test
+  - npm run build
