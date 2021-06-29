@@ -1,5 +1,5 @@
 const res = function (a, b) {
-    return Number(a) + Number(b)
+    return Number(b) + Number(a)
 } 
 
 module.exports = res
